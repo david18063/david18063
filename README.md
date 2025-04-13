@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david18063
-- 👀 I’m interested in developing a software that is used as a combo guide for the game of Yugioh
-- 🌱 I’m currently learning software technologies and design at uni
+- 👀 I’m interested in Shopify
+- 🌱 I’ve graduated Plovdiv University "Paisii Hilendarski" with a Master's Degree in Mobile Systems and Applications
 - 📫 How to reach me - zelevdavid@gmail.com
 
 <!---
